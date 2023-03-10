@@ -1,2 +1,2 @@
-# arduino-cotag-emu
+# arduino-cotag-emulator
  emulate active cotag card with arduino
