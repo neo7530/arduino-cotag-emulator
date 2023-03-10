@@ -70,6 +70,8 @@ void setup() {
 
 void loop() {
 
+  PWM_detach(10);
+
 while(!TX){}
 
   bit_pos=0;
